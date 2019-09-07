@@ -1,8 +1,7 @@
 # React Storybook starter Powered By Typescript
 
-# <a href='https://storybook.js.org'><img src='https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png' height='60' alt='Storybook Logo' /></a>
+# <a href='https://storybook.js.org'><img src='https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png' height='60' alt='Storybook Logo' /></a><a href='https://reactjs.org/'><img src='https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/square_256/react.png' height='60' alt='React Logo' /></a>
 
-# <a href='https://reactjs.org/'><img src='https://www.stickpng.com/assets/images/584830f5cef1014c0b5e4aa1.png' height='60' alt='React Logo' /></a>
 
 
 

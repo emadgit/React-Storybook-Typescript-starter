@@ -2,8 +2,6 @@
 
 # <a href='https://storybook.js.org'><img src='https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png' height='60' alt='Storybook Logo' /></a>
 
-![alt text](https://pbs.twimg.com/profile_images/1100804485616566273/sOct-Txm_400x400.png)
-
 I wanted to use storybook for one of my projects, and since I love typescript I had to add typescript support. Thanks to create-react-app they already add typescript support, but storybook needed some additional configuration. With this starter, you can enjoy making react component with storybook with typescript taste.
 
 # How to use
